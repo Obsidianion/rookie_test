@@ -1,0 +1,4 @@
+﻿  test11-7.cpp
+D:\Visual Studio\CODE\test11-7\rookie\rookie\test11-7.cpp(1,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+D:\Visual Studio\CODE\test11-7\rookie\rookie\test11-7.cpp(1,1): message : 之前在命令行上声明的“_CRT_SECURE_NO_WARNINGS”
+  rookie.vcxproj -> D:\Visual Studio\CODE\test11-7\rookie\x64\Debug\rookie.exe
